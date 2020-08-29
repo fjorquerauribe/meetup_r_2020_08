@@ -94,5 +94,8 @@
       "no-eq-null": 2,
       "no-unused-expressions": 0
     }
+  },
+  "dependencies": {
+    "reveal.js-d3js": "^1.0.0"
   }
 }
